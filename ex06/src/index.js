@@ -2,7 +2,7 @@ function main(numOne, numTwo) {
   // Only change code below this line
   var numOne;
   var numTwo;
-  var product;
+  var myQuotient;
   myQuotient = numOne / numTwo;
   // Only change code above this line
 
